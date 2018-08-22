@@ -24,6 +24,7 @@ end
 group :test do
   gem 'rails-controller-testing'
   gem 'minitest'
+  gem 'minitest-reporters'
 end
 
 group :production do
